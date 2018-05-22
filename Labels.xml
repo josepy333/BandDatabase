@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">LabelID</Data></Cell>
+			<Cell><Data ss:Type="String">LabelName</Data></Cell>
+			<Cell><Data ss:Type="String">Address</Data></Cell>
+			<Cell><Data ss:Type="String">Phone</Data></Cell>
+			<Cell><Data ss:Type="String">Email</Data></Cell>
+			<Cell><Data ss:Type="String">NumberOfReleases</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Foundation Records</Data></Cell>
+			<Cell><Data ss:Type="String">P.O. Box 69386 Los Angeles, CA 90069</Data></Cell>
+			<Cell><Data ss:Type="String">818-398-7753</Data></Cell>
+			<Cell><Data ss:Type="String">FoundationRec@Gmail.com</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Indescision Records</Data></Cell>
+			<Cell><Data ss:Type="String">P.O. Box 6052 Garden Grove, CA 92846</Data></Cell>
+			<Cell><Data ss:Type="String">657-398-9973</Data></Cell>
+			<Cell><Data ss:Type="String">IndescisionRecords@hotmail.com</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Victory Records</Data></Cell>
+			<Cell><Data ss:Type="String">17 Kingery Quater #107 Hinsdale, IL 60521</Data></Cell>
+			<Cell><Data ss:Type="String">630-745-9812</Data></Cell>
+			<Cell><Data ss:Type="String">VictoryRecords@gmail.com</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">New Age Records</Data></Cell>
+			<Cell><Data ss:Type="String">P.O. Box 3934, Mission Viejo, CA 92690</Data></Cell>
+			<Cell><Data ss:Type="String">949-882-6489</Data></Cell>
+			<Cell><Data ss:Type="String">NewAgeRecords@yahoo.com</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Conversion Records</Data></Cell>
+			<Cell><Data ss:Type="String">26861 Trabuco Rd., Suite E-143 Mission Viejo, CA 92691</Data></Cell>
+			<Cell><Data ss:Type="String">949-109-8143</Data></Cell>
+			<Cell><Data ss:Type="String">ConversionRecords@Gmail.com</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
